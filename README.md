@@ -10,7 +10,8 @@ GitHub | Junior Frontend Enthusiast"]</p>
 ---
 ### Details / About Me
 - **Pekerjaan Saat ini**: [Mahasiswa di Binus University]
-- **Sedang mendalami**: [ Git & GitHub Workflow] **Target**: [Menjadi Frontend Developer profesional]
+- **Sedang mendalami**: [ Git & GitHub Workflow] 
+**Target**: [Menjadi Frontend Developer profesional]
 - **Fun fact**: [Saya suka suatu hal yang menenangkan seperti mendengarkan musik dan mengenal budaya negara lain]
 ---
 ### Connect with Me
@@ -53,6 +54,5 @@ github&logoColor=white" />
 ### GitHub Stats (opsional)
 <p align="left">
 <img
-src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAM
-U&show_icons=true&theme=default" alt="GitHub Stats" />
+src="https://github-readme-stats.vercel.app/api?username=Enjelinacia8&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
